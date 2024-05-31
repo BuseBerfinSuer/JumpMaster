@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1327820687
+    locked: 0
+  - name: Ground
+    uniqueID: 456633827
+    locked: 0
+  - name: JakeTrail
+    uniqueID: 4203768105
+    locked: 0
+  - name: Jake
+    uniqueID: 3059324893
+    locked: 0
+  - name: Canvas
+    uniqueID: 1471334643
+    locked: 0
+  - name: PngLights
+    uniqueID: 2375784965
+    locked: 0
